@@ -1,4 +1,6 @@
 /.coverage
 /venv
 __pycache__
+/.pytest_cache
 /Solution.md
+/config.py
