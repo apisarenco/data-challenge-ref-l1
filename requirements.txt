@@ -9,7 +9,7 @@ distlib==0.3.0
 distro==1.5.0
 filelock==3.0.12
 future==0.18.2
-Glances==3.1.4.1
+Glances==3.2.1
 html5lib==1.0.1
 idna==2.9
 isc==2.0
