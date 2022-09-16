@@ -14,7 +14,7 @@ html5lib==1.0.1
 idna==2.9
 isc==2.0
 lit==0.10.0.dev0
-Mako==1.1.2
+Mako==1.2.2
 MarkupSafe==1.1.1
 meson==0.54.1
 msgpack==1.0.0
